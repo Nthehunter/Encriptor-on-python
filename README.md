@@ -1,5 +1,6 @@
 # Encriptor-on-python
 This is a simple script that encrypt or decrypt files in folders.
+
 Esto es un simple script hecho en python que encripta o desencripta archivos que hay dentro de un directorio o varios.
 
 Es solo una demo, es muy seguro que el código este muy mal optimizado y que se pueda hacer de mejor manera soy consciente de ello.
