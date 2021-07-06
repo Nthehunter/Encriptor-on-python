@@ -165,16 +165,7 @@ def directorios(ruta, archivos_total, ruta_original):
                                                              ruta = ruta_original
 
                                                          except:
-                                                             for t in lista_carpetas:
-                                                                 try:
-                                                                     archivos_carpetas(ruta + "\\" + t + "\\" + r + "\\" + e + "\\" + w + "\\"  + q + "\\" + c + "\\" + i)
-                                                                     ruta = ruta + "\\" + t + "\\" + r + "\\" + e + "\\" + w + "\\"  + q + "\\" + c + "\\" + i
-                                                                     archivo_elegido = archivos_total
-                                                                     desencriptar(ruta, archivo_elegido, clave)
-                                                                     ruta = ruta_original
-                                                                     print("Funciona xd")
-                                                                 except:
-                                                                     None
+                                                             None
 
 
             
